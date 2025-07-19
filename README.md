@@ -70,21 +70,15 @@ ecommerce_dbt_project/
 1. **Instalar o dbt BigQuery**
    ```bash
    pip install dbt-bigquery
-Carregar os dados seeds
 
-bash
-Copiar
-Editar
+2. **Carregar dados**
+   ```bash
 dbt seed --full-refresh
-Rodar os modelos
 
-bash
-Copiar
-Editar
+3. **Rodar modelos**
+   ```bash
 dbt run
-Testar a integridade
 
-bash
-Copiar
-Editar
+4. **Testar Integridade**
+   ```bash
 dbt test
