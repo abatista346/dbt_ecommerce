@@ -1,6 +1,6 @@
 # Ecommerce DBT Project
 
-Este projeto cria um **data warehouse de e-commerce** usando o [dbt (data build tool)](https://docs.getdbt.com/).  
+Este projeto cria um **data warehouse de e-commerce** usando o [dbt (data build tool)](https://docs.getdbt.com/).
 Os dados são carregados via **seeds** (CSV) e processados em um **BigQuery**.
 
 ---
@@ -51,34 +51,44 @@ Transações realizadas.
 ---
 
 ## **Estrutura do Projeto**
+```
 ecommerce_dbt_project/
 ├── dbt_project.yml
 ├── models/
-│ ├── staging/
-│ └── marts/
+│   ├── staging/
+│   └── marts/
 ├── seeds/
-│ ├── customers.csv
-│ ├── products.csv
-│ └── orders.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   └── orders.csv
 └── README.md
-
+```
 
 ---
 
 ## **Como Executar**
 
 1. **Instalar o dbt BigQuery**
-```bash
-pip install dbt-bigquery
+   ```bash
+   pip install dbt-bigquery
+   ```
 
 2. **Carregar dados**
-```bash
-dbt seed --full-refresh
+   ```bash
+   dbt seed --full-refresh
+   ```
 
 3. **Rodar modelos**
-```bash
-dbt run
+   ```bash
+   dbt run
+   ```
 
 4. **Testar Integridade**
-```bash
-dbt test
+   ```bash
+   dbt test
+   ```
+
+---
+
+## **Contato**
+Criado por **Talita Souza** – Projeto de estudo com dbt + BigQuery.
