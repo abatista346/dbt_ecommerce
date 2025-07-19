@@ -68,17 +68,17 @@ ecommerce_dbt_project/
 ## **Como Executar**
 
 1. **Instalar o dbt BigQuery**
-   ```bash
-   pip install dbt-bigquery
+```bash
+pip install dbt-bigquery
 
 2. **Carregar dados**
-   ```bash
+```bash
 dbt seed --full-refresh
 
 3. **Rodar modelos**
-   ```bash
+```bash
 dbt run
 
 4. **Testar Integridade**
-   ```bash
+```bash
 dbt test
