@@ -1,0 +1,292 @@
+product_id,name,category,price
+10,Smartwatch X1,Eletrônicos,199.99
+11,Fone de Ouvido Bluetooth,Eletrônicos,89.90
+12,Notebook Gamer Z50,Eletrônicos,4500.00
+13,Teclado Mecânico RGB,Eletrônicos,250.00
+14,Mouse Sem Fio Ergonômico,Eletrônicos,75.50
+15,Monitor UltraWide 34,Eletrônicos,1800.00
+16,Webcam Full HD,Eletrônicos,120.00
+17,Roteador Wi-Fi 6,Eletrônicos,300.00
+18,Câmera de Segurança IP,Eletrônicos,350.00
+19,Impressora Multifuncional,Eletrônicos,550.00
+20,Liquidificador PowerMix,Eletrodomésticos,150.00
+21,Batedeira Planetária,Eletrodomésticos,280.00
+22,Cafeteira Expresso,Eletrodomésticos,400.00
+23,Air Fryer Digital,Eletrodomésticos,320.00
+24,Robô Aspirador Inteligente,Eletrodomésticos,1200.00
+25,Geladeira Frost Free,Eletrodomésticos,2500.00
+26,Máquina de Lavar 12kg,Eletrodomésticos,1900.00
+27,Forno Micro-ondas 30L,Eletrodomésticos,600.00
+28,Ferro de Passar a Vapor,Eletrodomésticos,90.00
+29,Torradeira Elétrica,Eletrodomésticos,60.00
+30,Camisa Casual Masculina,Vestuário,79.90
+31,Calça Jeans Slim Fit,Vestuário,120.00
+32,Vestido Floral Feminino,Vestuário,95.00
+33,Tênis Esportivo Running,Vestuário,350.00
+34,Jaqueta Corta-Vento,Vestuário,180.00
+35,Meia Social Kit 3 Pares,Vestuário,30.00
+36,Cueca Boxer Algodão,Vestuário,25.00
+37,Sutiã de Renda,Vestuário,45.00
+38,Bermuda Sarja Masculina,Vestuário,85.00
+39,Blusa de Tricô Feminina,Vestuário,110.00
+40,Livro: A Arte da Guerra,Livros,49.90
+41,Livro: 1984,Livros,55.00
+42,Livro: O Pequeno Príncipe,Livros,35.00
+43,E-reader Paperwhite,Eletrônicos,499.00
+44,Box de Livros Coleção Clássicos,Livros,180.00
+45,Caneta Esferográfica Premium,Papelaria,25.00
+46,Caderno Inteligente A5,Papelaria,70.00
+47,Mochila Escolar Reforçada,Acessórios,150.00
+48,Estojo Escolar Grande,Papelaria,40.00
+49,Apontador de Mesa Elétrico,Papelaria,80.00
+50,Fones de Ouvido Intra-auriculares,Eletrônicos,50.00
+51,Carregador Portátil 10000mAh,Eletrônicos,120.00
+52,Cabo USB-C Trançado 2m,Eletrônicos,30.00
+53,Adaptador HDMI para USB,Eletrônicos,60.00
+54,Placa de Vídeo RTX 4080,Eletrônicos,6000.00
+55,Processador Intel i9,Eletrônicos,2800.00
+56,Memória RAM DDR5 32GB,Eletrônicos,900.00
+57,SSD NVMe 1TB,Eletrônicos,700.00
+58,Fonte de Alimentação 750W,Eletrônicos,450.00
+59,Gabinete Gamer ATX,Eletrônicos,500.00
+60,Fone Gamer com Microfone,Eletrônicos,180.00
+61,Controle Sem Fio para PC/Console,Eletrônicos,220.00
+62,Volante de Corrida com Pedais,Eletrônicos,1100.00
+63,Realidade Virtual Headset,Eletrônicos,2500.00
+64,Placa Mãe Z790,Eletrônicos,1500.00
+65,Cooler para Processador Water Cooler,Eletrônicos,380.00
+66,Drone com Câmera 4K,Eletrônicos,1600.00
+67,Action Camera Gopro Hero 12,Eletrônicos,2200.00
+68,Tripé para Câmera Profissional,Eletrônicos,100.00
+69,Lente para Câmera 50mm,Eletrônicos,700.00
+70,Microfone Condensador USB,Eletrônicos,200.00
+71,Caixa de Som Portátil Bluetooth,Eletrônicos,190.00
+72,Soundbar com Subwoofer,Eletrônicos,950.00
+73,Projetor Portátil Mini,Eletrônicos,800.00
+74,Tela de Projeção Retrátil,Eletrônicos,300.00
+75,Controle Remoto Universal,Eletrônicos,40.00
+76,Smart TV 55 4K HDR,Eletrônicos,3200.00
+77,Home Theater 5.1 Canais,Eletrônicos,1400.00
+78,DVD Player Blu-ray,Eletrônicos,350.00
+79,Antena Digital Externa,Eletrônicos,80.00
+80,Conversor Digital,Eletrônicos,70.00
+81,Máquina de Café Nespresso,Eletrodomésticos,500.00
+82,Sanduicheira Elétrica,Eletrodomésticos,70.00
+83,Grill Elétrico,Eletrodomésticos,130.00
+84,Fritadeira Elétrica sem Óleo,Eletrodomésticos,280.00
+85,Espremedor de Frutas Elétrico,Eletrodomésticos,110.00
+86,Chaleira Elétrica,Eletrodomésticos,95.00
+87,Fogão 4 Bocas com Forno,Eletrodomésticos,1100.00
+88,Cooktop por Indução,Eletrodomésticos,750.00
+89,Coifa de Parede Inox,Eletrodomésticos,900.00
+90,Micro-ondas Embutir,Eletrodomésticos,850.00
+91,Lava-louças 10 Serviços,Eletrodomésticos,1800.00
+92,Secadora de Roupas,Eletrodomésticos,1600.00
+93,Aquecedor Elétrico Portátil,Eletrodomésticos,140.00
+94,Ventilador de Torre,Eletrodomésticos,170.00
+95,Ar Condicionado Split 9000 BTUs,Eletrodomésticos,1700.00
+96,Purificador de Água,Eletrodomésticos,400.00
+97,Aspirador de Pó Vertical,Eletrodomésticos,230.00
+98,Mop Elétrico Giratório,Eletrodomésticos,180.00
+99,Máquina de Costura Doméstica,Eletrodomésticos,650.00
+100,Ferro de Passar a Seco,Eletrodomésticos,50.00
+101,Bolsa Transversal Feminina,Acessórios,120.00
+102,Carteira de Couro Masculina,Acessórios,80.00
+103,Óculos de Sol Aviador,Acessórios,200.00
+104,Relógio de Pulso Analógico,Acessórios,250.00
+105,Cinto de Couro Genuíno,Acessórios,60.00
+106,Cachecol de Lã,Acessórios,70.00
+107,Luvas de Inverno,Acessórios,40.00
+108,Boné Esportivo,Acessórios,35.00
+109,Chapéu de Sol Aba Larga,Acessórios,55.00
+110,Guarda-chuva Reforçado,Acessórios,90.00
+111,Colar de Prata com Pingente,Jóias,150.00
+112,Brincos de Ouro Pequenos,Jóias,300.00
+113,Anel Solitário com Zircônia,Jóias,220.00
+114,Pulseira de Couro com Fecho Magnético,Jóias,85.00
+115,Corrente de Aço Inoxidável,Jóias,100.00
+116,Perfume Masculino Amadeirado 100ml,Perfumaria,300.00
+117,Perfume Feminino Floral 50ml,Perfumaria,250.00
+118,Kit Shampoo e Condicionador,Beleza,80.00
+119,Creme Hidratante Corporal,Beleza,60.00
+120,Maquiagem Base Líquida,Beleza,90.00
+121,Escova de Dentes Elétrica,Higiene Pessoal,150.00
+122,Barbeador Elétrico,Higiene Pessoal,280.00
+123,Secador de Cabelo Profissional,Higiene Pessoal,350.00
+124,Prancha Alisadora de Cabelo,Higiene Pessoal,200.00
+125,Balanca Digital de Banheiro,Higiene Pessoal,100.00
+126,Kit Ferramentas para Casa,Ferramentas,180.00
+127,Furadeira de Impacto,Ferramentas,250.00
+128,Parafusadeira Elétrica,Ferramentas,130.00
+129,Caixa Organizadora de Ferramentas,Ferramentas,70.00
+130,Jogo de Chaves Combinadas,Ferramentas,90.00
+131,Kit Pincéis para Pintura,Artesanato,50.00
+132,Tintas Acrílicas Kit,Artesanato,120.00
+133,Tela para Pintura 50x70cm,Artesanato,40.00
+134,Tesoura Artesanal,Artesanato,20.00
+135,Cola Quente com Bastões,Artesanato,45.00
+136,Bola de Futebol Campo,Esportes,90.00
+137,Corda de Pular Ajustável,Esportes,30.00
+138,Halteres de 5kg Par,Esportes,110.00
+139,Colchonete para Yoga,Esportes,65.00
+140,Garrafa Térmica Esportiva,Esportes,50.00
+141,Boneca Barbie Colecionável,Brinquedos,150.00
+142,Carrinho de Controle Remoto,Brinquedos,200.00
+143,Quebra-Cabeça 1000 Peças,Brinquedos,80.00
+144,Jogo de Tabuleiro Clássico,Brinquedos,120.00
+145,Blocos de Montar Grande Kit,Brinquedos,250.00
+146,Ração para Cães Adultos 15kg,Pet Shop,180.00
+147,Coleira Antipulgas para Gatos,Pet Shop,70.00
+148,Brinquedo Interativo para Cães,Pet Shop,45.00
+149,Cama para Gatos Macia,Pet Shop,100.00
+150,Comedouro Automático para Pets,Pet Shop,150.00
+151,Panela de Pressão Inox 4.5L,Cozinha,180.00
+152,Conjunto de Panelas Antiaderente,Cozinha,350.00
+153,Faca de Cozinha Chef 8,Cozinha,90.00
+154,Tábua de Corte Bambu,Cozinha,50.00
+155,Pote Hermético de Vidro,Cozinha,30.00
+156,Copo Térmico com Tampa,Cozinha,70.00
+157,Jogo de Taças para Vinho,Cozinha,120.00
+158,Abridor de Garrafas Elétrico,Cozinha,60.00
+159,Balança de Cozinha Digital,Cozinha,80.00
+160,Espátula de Silicone,Cozinha,25.00
+161,Cortina Blackout 2.00x2.80m,Casa e Decoracao,150.00
+162,Almofada Decorativa Geométrica,Casa e Decoracao,40.00
+163,Vaso de Cerâmica Grande,Casa e Decoracao,90.00
+164,Quadro Decorativo Abstrato,Casa e Decoracao,110.00
+165,Luminária de Mesa LED,Casa e Decoracao,80.00
+166,Tapete de Sala 2.00x1.50m,Casa e Decoracao,250.00
+167,Manta para Sofá de Tricô,Casa e Decoracao,130.00
+168,Vela Aromática de Lavanda,Casa e Decoracao,35.00
+169,Difusor de Aromas Elétrico,Casa e Decoracao,100.00
+170,Kit de Panos de Prato,Casa e Decoracao,20.00
+171,Cadeira Gamer Ergonômica,Móveis,900.00
+172,Mesa de Escritório L em L,Móveis,700.00
+173,Estante para Livros 5 Prateleiras,Móveis,400.00
+174,Sofá de 3 Lugares Reclinável,Móveis,1800.00
+175,Cama Box Casal com Colchão,Móveis,1500.00
+176,Guarda-Roupa 6 Portas,Móveis,1200.00
+177,Cômoda 4 Gavetas,Móveis,300.00
+178,Mesa de Centro de Vidro,Móveis,200.00
+179,Rack para TV com Painel,Móveis,600.00
+180,Aparador Buffet com Portas,Móveis,550.00
+181,Pneu Aro 15 185/65 R15,Automotivo,350.00
+182,Câmera de Ré Automotiva,Automotivo,150.00
+183,Kit Limpeza Automotiva Completo,Automotivo,90.00
+184,Capa para Carro Impermeável,Automotivo,120.00
+185,Macaco Hidráulico Tipo Garrafa,Automotivo,180.00
+186,Capacete de Moto Fechado,Motos,280.00
+187,Luva para Motociclista,Motos,70.00
+188,Jaqueta de Couro para Motoqueiro,Motos,400.00
+189,Cadeado de Segurança para Moto,Motos,60.00
+190,Alarme para Moto com Sensor,Motos,110.00
+191,Piscina Inflável Infantil,Lazer,200.00
+192,Boia Inflável Gigante Flamingo,Lazer,80.00
+193,Jogo de Raquetes de Beach Tennis,Lazer,130.00
+194,Kit Churrasco Inox 5 Peças,Lazer,100.00
+195,Barraca de Camping 4 Pessoas,Lazer,300.00
+196,Violão Acústico de Estudo,Instrumentos Musicais,450.00
+197,Teclado Eletrônico Portátil,Instrumentos Musicais,500.00
+198,Fones de Ouvido para Estúdio,Instrumentos Musicais,250.00
+199,Microfone para Karaokê,Instrumentos Musicais,90.00
+200,Estante para Partitura,Instrumentos Musicais,60.00
+201,Jogo de Cama King Size Algodão,Cama, Mesa e Banho
+202,Edredom Casal Microfibra,Cama, Mesa e Banho
+203,Toalha de Banho Gigante Algodão,Cama, Mesa e Banho
+204,Jogo de Toalhas 5 Peças,Cama, Mesa e Banho
+205,Travesseiro de Espuma Viscoelástica,Cama, Mesa e Banho
+206,Máquina de Cortar Cabelo,Beleza,120.00
+207,Kit Pincel de Maquiagem,Beleza,60.00
+208,Espelho de Maquiagem com LED,Beleza,85.00
+209,Kit Unhas Gel Completo,Beleza,180.00
+210,Depilador Elétrico Feminino,Beleza,220.00
+211,Cadeira de Rodas Dobrável,Saúde,900.00
+212,Medidor de Pressão Arterial Digital,Saúde,150.00
+213,Termômetro Digital Infravermelho,Saúde,80.00
+214,Oxímetro de Pulso,Saúde,120.00
+215,Kit Primeiros Socorros Completo,Saúde,60.00
+216,Câmera Fotográfica Digital,Eletrônicos,800.00
+217,Filmadora Portátil Full HD,Eletrônicos,600.00
+218,Drones de Corrida FPV,Eletrônicos,1100.00
+219,Robô Brinquedo Interativo,Brinquedos,300.00
+220,Kit de Ferramentas de Precisão,Ferramentas,100.00
+221,Kit Básico de Marcenaria,Ferramentas,250.00
+222,Serra Tico-Tico Elétrica,Ferramentas,350.00
+223,Lixadeira Orbital,Ferramentas,180.00
+224,Plaina Elétrica,Ferramentas,220.00
+225,Jogo de Brocas para Furadeira,Ferramentas,70.00
+226,Alicate Universal,Ferramentas,25.00
+227,Martelo de Unha,Ferramentas,30.00
+228,Chave de Fenda Kit,Ferramentas,40.00
+229,Trena de 5 Metros,Ferramentas,20.00
+230,Lanterna Tática LED,Ferramentas,55.00
+231,Cadeado de Segurança para Armário,Casa e Decoracao,25.00
+232,Caixa de Ferramentas de Plástico,Ferramentas,45.00
+233,Kit de Jardinagem com Luvas,Jardim,80.00
+234,Mangueira de Jardim Flexível 20m,Jardim,120.00
+235,Tesoura de Poda Profissional,Jardim,70.00
+236,Regador de Plástico 5L,Jardim,30.00
+237,Adubo Orgânico 1kg,Jardim,40.00
+238,Sementes de Flores Variadas,Jardim,20.00
+239,Vaso de Planta Grande,Jardim,60.00
+240,Luvas de Jardinagem Reforçadas,Jardim,35.00
+241,Kit de Limpeza para Banheiro,Limpeza,60.00
+242,Balde Mop Giratório,Limpeza,90.00
+243,Aspirador de Pó Portátil,Limpeza,180.00
+244,Panos de Microfibra Kit 5 Unid,Limpeza,25.00
+245,Desinfetante Multiuso 1L,Limpeza,15.00
+246,Sabão em Pó Concentrado 2kg,Limpeza,40.00
+247,Amaciante de Roupas 1.5L,Limpeza,20.00
+248,Esponja Multiuso Kit 3 Unid,Limpeza,10.00
+249,Saco de Lixo Reforçado 100L,Limpeza,30.00
+250,Detergente Lava-Louças 500ml,Limpeza,12.00
+251,Pasta de Dente Clareadora,Higiene Pessoal,25.00
+252,Fio Dental com Menta,Higiene Pessoal,15.00
+253,Enxaguante Bucal Antisséptico,Higiene Pessoal,30.00
+254,Sabonete Líquido Hidratante,Higiene Pessoal,20.00
+255,Shampoo Anticaspa,Higiene Pessoal,40.00
+256,Condicionador Reparador,Higiene Pessoal,35.00
+257,Creme para Pentear Antifrizz,Higiene Pessoal,30.00
+258,Gel Fixador para Cabelos,Higiene Pessoal,20.00
+259,Desodorante Roll-on Sem Perfume,Higiene Pessoal,25.00
+260,Protetor Solar Facial FPS 50,Higiene Pessoal,70.00
+261,Adesivo Decorativo de Parede,Casa e Decoracao,60.00
+262,Espelho de Parede Redondo,Casa e Decoracao,120.00
+263,Prateleira Flutuante de Madeira,Casa e Decoracao,80.00
+264,Caixa Organizadora com Tampa,Casa e Decoracao,50.00
+265,Cesto de Roupa Suja Dobrável,Casa e Decoracao,40.00
+266,Puff Redondo de Tecido,Móveis,180.00
+267,Poltrona Decorativa,Móveis,450.00
+268,Mesa de Canto para Sala,Móveis,150.00
+269,Banco para Jardim de Madeira,Jardim,220.00
+270,Ombrelone Grande para Praia,Lazer,300.00
+271,Bicicleta Aro 29 Mountain Bike,Esportes,1200.00
+272,Capacete de Ciclismo,Esportes,100.00
+273,Luvas de Ciclismo,Esportes,40.00
+274,Bomba de Ar para Pneu de Bicicleta,Esportes,50.00
+275,Kit Reparo de Pneu de Bicicleta,Esportes,30.00
+276,Patins Inline Ajustável,Esportes,180.00
+277,Skate Profissional Completo,Esportes,250.00
+278,Capa para Prancha de Surf,Esportes,150.00
+279,Bola de Basquete Oficial,Esportes,90.00
+280,Rede de Vôlei Portátil,Esportes,110.00
+281,Roupa de Mergulho Neoprene,Esportes,400.00
+282,Máscara e Snorkel para Mergulho,Esportes,80.00
+283,Nadadeiras de Natação,Esportes,60.00
+284,Óculos de Natação Anti-embaçante,Esportes,40.00
+285,Touca de Natação de Silicone,Esportes,25.00
+286,Jogo de Dardo com Alvo,Lazer,70.00
+287,Mesa de Bilhar Mini,Lazer,350.00
+288,Baralho de Cartas Profissional,Lazer,20.00
+289,Dominó de Madeira,Lazer,35.00
+290,Xadrez e Dama 2 em 1,Lazer,50.00
+291,Câmera de Ação Subaquática,Eletrônicos,700.00
+292,Óculos de Realidade Virtual para Smartphone,Eletrônicos,150.00
+293,Relógio Smartwatch Fitness,Eletrônicos,300.00
+294,Fone de Condução Óssea,Eletrônicos,280.00
+295,Protetor de Tela para Smartphone,Eletrônicos,40.00
+296,Capa para Smartphone Antichoque,Eletrônicos,50.00
+297,PopSocket para Celular,Eletrônicos,25.00
+298,Suporte Veicular para Celular,Eletrônicos,60.00
+299,Grip para Jogos Mobile,Eletrônicos,80.00
+300,Caneta Stylus para Tablet,Eletrônicos,70.00
