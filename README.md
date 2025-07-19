@@ -62,16 +62,29 @@ ecommerce_dbt_project/
 │ └── orders.csv
 └── README.md
 
+
+---
+
 ## **Como Executar**
 
 1. **Instalar o dbt BigQuery**
    ```bash
    pip install dbt-bigquery
+Carregar os dados seeds
 
-**Carregar dados**
+bash
+Copiar
+Editar
 dbt seed --full-refresh
+Rodar os modelos
 
-**Rodar Modelos**
+bash
+Copiar
+Editar
 dbt run
+Testar a integridade
 
-
+bash
+Copiar
+Editar
+dbt test
