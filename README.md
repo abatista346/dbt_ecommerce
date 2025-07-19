@@ -91,4 +91,4 @@ ecommerce_dbt_project/
 ---
 
 ## **Contato**
-Criado por **Talita Souza** – Projeto de estudo com dbt + BigQuery.
+Criado por **Adilson Batista** – Projeto de estudo com dbt + BigQuery.
