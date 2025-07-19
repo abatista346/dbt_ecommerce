@@ -1,4 +1,13 @@
-
+# Pastas do dbt que não devem ir para o repositório
 target/
 dbt_packages/
 logs/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
