@@ -96,9 +96,28 @@ ecommerce_dbt_project/
 
 Este projeto inclui um dashboard interativo criado no **Looker Studio**, conectado ao BigQuery e alimentado pelo dbt.
 
-- **[Acesse o Dashboard](https://lookerstudio.google.com/reporting/3ef3f274-e2d2-485e-a4d0-43fdc2ca31ac)** .
+- **[Acesse o Dashboard](https://lookerstudio.google.com/reporting/3ef3f274-e2d2-485e-a4d0-43fdc2ca31ac)** *(substitua este link pelo seu link público do relatório)*.
 
 ![Preview do Dashboard](docs/dashboard_preview.png)
+
+---
+
+## **Query utilizada para o Dashboard Looker Studio**
+
+A query abaixo é utilizada como base para unir as tabelas `orders` e `products` no BigQuery e alimentar o relatório no Looker Studio:
+
+```sql
+SELECT
+  o.*,
+  p.name AS nome_product,
+  p.category
+FROM
+  `serene-craft-466220-m7.ecommerce_dbt.orders` o
+LEFT JOIN
+  `serene-craft-466220-m7.ecommerce_dbt.products` p
+USING
+  (product_id)
+```
 
 ---
 
