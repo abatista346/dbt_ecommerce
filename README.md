@@ -96,7 +96,7 @@ ecommerce_dbt_project/
 
 Este projeto inclui um dashboard interativo criado no **Looker Studio**, conectado ao BigQuery e alimentado pelo dbt.
 
-- **[Acesse o Dashboard](https://lookerstudio.google.com/reporting/3ef3f274-e2d2-485e-a4d0-43fdc2ca31ac)** *(substitua este link pelo seu link público do relatório)*.
+- **[Acesse o Dashboard](https://lookerstudio.google.com/reporting/3ef3f274-e2d2-485e-a4d0-43fdc2ca31ac)** 
 
 ![Preview do Dashboard](docs/dashboard_preview.png)
 
