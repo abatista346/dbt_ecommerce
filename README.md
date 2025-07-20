@@ -61,6 +61,8 @@ ecommerce_dbt_project/
 │   ├── customers.csv
 │   ├── products.csv
 │   └── orders.csv
+├── docs/
+│   └── dashboard_preview.png
 └── README.md
 ```
 
@@ -87,6 +89,24 @@ ecommerce_dbt_project/
    ```bash
    dbt test
    ```
+
+---
+
+## **Dashboard Looker Studio**
+
+Este projeto inclui um dashboard interativo criado no **Looker Studio**, conectado ao BigQuery e alimentado pelo dbt.
+
+- **[Acesse o Dashboard](https://lookerstudio.google.com/reporting/3ef3f274-e2d2-485e-a4d0-43fdc2ca31ac)** .
+
+![Preview do Dashboard](docs/dashboard_preview.png)
+
+---
+
+## **Principais Insights**
+- Receita total e ticket médio.
+- Evolução de vendas ao longo do tempo.
+- Produtos mais vendidos e categorias líderes.
+- Clientes mais ativos e aquisição mensal.
 
 ---
 
